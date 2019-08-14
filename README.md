@@ -1,2 +1,1 @@
-# TF_2.0
-None
+# TensorFlow 2.0 Tutorials for myself
